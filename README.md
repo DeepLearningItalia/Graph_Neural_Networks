@@ -1,4 +1,4 @@
-# Graph_Neural_Networks
+# Graph Neural Networks
 This repository includes the material of the GNNs course offered by Deep Learning Italia Academy.
 
 |                   Module                  |                                           Description                                           |                                                                        Notebook                                                                       |
